@@ -1,0 +1,90 @@
+.box{
+    min-height: 100%;
+    height: 100%;
+}
+.referral{
+    width: 100%;
+}
+.referral img{
+    width: 100%;
+}
+.text{ 
+    width: 65%;
+    margin-top: 110px;
+   
+}
+.text p{
+    color: #fff;
+    padding: 20px 0 20px 0;
+}
+.text h1{
+    font-size: 42px;
+    color: #fff;
+    font-weight: 500;
+}
+.move{
+    justify-content: space-between
+}
+.text ul li{
+    padding: 20px 0 0 0 ;
+}
+.text ul li span{
+    color: #fff;
+}
+.text ul li a{
+    color: #fff;
+}
+.product{
+    width: 100%;
+    /* padding-bottom:150px; */
+}
+.product h2{
+    text-align: center;
+    padding: 30px 0 0 0 ;
+    font-weight: 500;
+    font-size: 25px;
+}
+.product ul{
+    margin-top: 30px;
+}
+.product ul li{
+    width: 33%;
+    text-align: center;
+}
+.product ul li img{
+    width: 310px;
+}
+.product ul li p{
+    /* text-align: left; */
+}
+.product ul li h1{
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 0 10px 0;
+    color:#5a5a5a
+}
+.means{
+    justify-content: space-between
+}
+.bottoms{
+    width: 100%;
+    background:#999999;
+    /* overflow: hidden; */
+    padding: 20px 0 20px 0;
+    /* margin-top: 20px; */
+}
+.put{
+    text-align: center;
+    /* margin-top: 30px; */
+}
+.put p{
+    font-size: 12px;
+    color: #fff;
+}
+.put span{
+    display: block;
+    font-size: 12px;
+    color: #fff;
+    margin-top: 10px;
+}
+
